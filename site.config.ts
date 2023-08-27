@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'MindFire',
-  domain: 'fake.com',
+  domain: 'mind-fire.notion.site',
   author: 'MindFire',
 
   // open graph metadata (optional)
